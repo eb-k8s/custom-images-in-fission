@@ -5,3 +5,5 @@
 添加了mirror的jvm-builder镜像地址：registry.cn-beijing.aliyuncs.com/eb-k8s/jvm-builder:openjdk8
 
 添加了mirror的node-builder镜像地址：registry.cn-beijing.aliyuncs.com/eb-k8s/node-builder:1.32.2
+
+添加了mirror的python-builder镜像地址：registry.cn-beijing.aliyuncs.com/eb-k8s/python-builder:1.34.0
